@@ -2,7 +2,7 @@
 - 👀 I’m interested in Android Development
 - 🌱 I’m currently learning Testing, Java...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Gamil - jayanthdnayak117@gmail.com Telegram - @Dj_117_mido
+- 📫 How to reach me Telegram - @Dj_117_mido
 
 <!---
 Jayanth1205/Jayanth1205 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
