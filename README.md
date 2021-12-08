@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jayanth1205
-- 👀 I’m interested in Android Development
-- 🌱 I’m currently learning Testing, Java...
+- 👀 I’m interested in Development
+- 🌱 I’m currently learning Testing, Java, Selenium
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Telegram - @Dj_117_mido
 
